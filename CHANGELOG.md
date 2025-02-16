@@ -2,6 +2,12 @@
 
 #  Changelog
 
+## 0.0.2 - 2025-02-16
+### ✨ Primera versión
+- Cambio de correo.
+---
+
+
 ## 0.0.1 - 2025-02-16
 ### ✨ Primera versión
 - Lanzamiento inicial del plugin `flutter_anti_tamper`.

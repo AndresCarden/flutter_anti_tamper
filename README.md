@@ -141,13 +141,13 @@ Este proyecto está bajo la licencia **MIT**.
 
 👨‍💻 ¡Las contribuciones son bienvenidas! Si quieres mejorar este plugin, haz un **Pull Request** o abre un **Issue** en el repositorio.
 
-📢 **Síguenos en [GitHub](https://github.com/tu-repo)** y ⭐ ¡Dale una estrella si te ayudó!
+📢 **Síguenos en [GitHub](https://github.com/AndresCarden/flutter_anti_tamper.git)** y ⭐ ¡Dale una estrella si te ayudó!
 
 ---
 
 ## 📬 Contacto
 
-Si tienes dudas o sugerencias, puedes escribirme a **[tuemail@example.com](mailto:tuemail@example.com)**.
+Si tienes dudas o sugerencias, puedes escribirme a **[cardenasandres5@gmail.com](mailto:cardenasandres5@gmail.com)**.
 
 ---
 
