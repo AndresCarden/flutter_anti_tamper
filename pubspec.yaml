@@ -1,6 +1,6 @@
 name: flutter_anti_tamper
 description: "flutter_anti_tamper es un plugin de seguridad para Flutter que detecta manipulaciones en la aplicación, incluyendo root, Xposed, Frida y jailbreak, permitiendo tomar medidas preventivas como el cierre automático de la app."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/AndresCarden/flutter_anti_tamper.git
 repository: https://github.com/AndresCarden/flutter_anti_tamper.git
 
