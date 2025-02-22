@@ -19,11 +19,21 @@
 
 Agrega `flutter_anti_tamper` a tu archivo `pubspec.yaml`:
 
+```sh
+flutter pub add flutter_anti_tamper
+```
+
 ```yaml
 dependencies:
   flutter:
     sdk: flutter
-  flutter_anti_tamper:
+  flutter_anti_tamper: ^0.0.3
+```
+
+```yaml
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=3.3.0"
 ```
 
 Luego ejecuta:

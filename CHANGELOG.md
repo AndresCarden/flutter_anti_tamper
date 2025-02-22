@@ -2,6 +2,12 @@
 
 #  Changelog
 
+
+## 0.0.3 - 2025-02-22
+### Cambios:
+- Se amplió la compatibilidad del SDK de Dart (`>=3.3.0 <4.0.0`).
+- Se mejoró la documentación en `README.md` con detalles de instalación.
+
 ## 0.0.2 - 2025-02-16
 ###  Segunda versión
 - Cambio de correo.
